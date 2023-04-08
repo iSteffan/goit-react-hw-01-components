@@ -1,0 +1,16 @@
+.table {
+  width: 800px;
+  text-align: center;
+}
+
+.head {
+  background-color: blue;
+}
+
+.row {
+  outline: 1px solid gray;
+}
+
+.item {
+  outline: 1px solid gray;
+}
