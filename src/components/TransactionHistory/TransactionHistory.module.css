@@ -11,6 +11,10 @@
   outline: 1px solid gray;
 }
 
+.row:nth-child(2n) {
+  background-color: #8080803d;
+}
+
 .item {
   outline: 1px solid gray;
 }
